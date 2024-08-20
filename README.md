@@ -1,5 +1,5 @@
 # SDLC
-How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
+How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?\\
 The easiest way to interpret user needs is to create user stories. An example is as follows:
 As a [type of user], I want to [function] so that [result].
 User stories serve as a communication tool between customers and the development team. They allow the team to organize tasks by priority.
